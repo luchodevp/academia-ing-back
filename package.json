@@ -1,0 +1,22 @@
+{
+  "name": "academiaingles",
+  "version": "1.0.0",
+  "description": "Desarollo web de una aplicacion para una academia de ingles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Gonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.10",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
+    "reload": "^3.2.0",
+    "request": "^2.88.2",
+    "response": "^0.18.0"
+  }
+}
